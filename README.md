@@ -39,3 +39,39 @@ ___
 
 [Problem set](https://github.com/prog4biol/pfb2018/blob/master/problemsets/Python_01_problemset.md)
 
+___
+
+#### Python 2:
+
+___
+
+#### Python 3:
+
+___
+
+#### Python 4:
+
+___
+
+#### Python 5:
+
+___
+
+#### Python 6:
+
+___
+
+#### Python 7:
+
+___
+
+#### Python 8:
+
+___
+
+#### Python 9:
+
+___
+
+#### Python 10:
+
