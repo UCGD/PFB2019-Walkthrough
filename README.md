@@ -8,12 +8,12 @@ It would be beneficial if you have python3 installed on your system _before_ we 
 
 [Mac OS](https://wsvincent.com/install-python3-mac/)
 
-### Time and Location
+### Time and Location:
 * Starts Feb 4th 2019
 * Each Following Mondays 2:30-3:30
 * Room: TBD
 
-### Participants
+### Participants:
 
 * Shawn Rynearson 
 * Karen Eilbeck
@@ -29,9 +29,9 @@ It would be beneficial if you have python3 installed on your system _before_ we 
 * Javier Hernandez
 * Preetida Bhetariya
 
-### Slack Channel
+### Slack Channel:
 
-### Python Lectures:
+### Python Lectures
 ___
 
 #### Python 1:
