@@ -30,8 +30,11 @@ It would be beneficial if you have python3 installed on your system _before_ we 
 * Preetida Bhetariya
 
 ### Slack Channel:
-
 utahgenomics -> pfbwalkthrough2019
+
+If you don't have slack, but would like to be apart of this group.
+1. sign up for [slack](https://slack.com/)
+2. email me your username.
 
 ### Python Lectures
 ___
