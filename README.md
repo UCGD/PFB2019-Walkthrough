@@ -31,6 +31,8 @@ It would be beneficial if you have python3 installed on your system _before_ we 
 
 ### Slack Channel:
 
+utahgenomics -> pfbwalkthrough2019
+
 ### Python Lectures
 ___
 
