@@ -13,7 +13,7 @@ It would be beneficial if you have python3 installed on your system _before_ we 
 * Each Following Mondays 2:30-3:30
 * Room: [Location](https://github.com/UCGD/PFB2019-Walkthrough/blob/master/MeetingLocation.pdf)
 
-### Participants:
+### Participants: (14/20)
 
 * Shawn Rynearson 
 * Karen Eilbeck
@@ -28,6 +28,7 @@ It would be beneficial if you have python3 installed on your system _before_ we 
 * Steven Boyden
 * Javier Hernandez
 * Preetida Bhetariya
+* Carson Holt
 
 ### Slack Channel:
 utahgenomics -> pfbwalkthrough2019
