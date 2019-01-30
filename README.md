@@ -11,7 +11,7 @@ It would be beneficial if you have python3 installed on your system _before_ we 
 ### Time and Location:
 * Starts Feb 4th 2019
 * Each Following Mondays 2:30-3:30
-* Room: TBD
+* Room: [Location](https://github.com/UCGD/PFB2019-Walkthrough/blob/master/MeetingLocation.pdf)
 
 ### Participants:
 
