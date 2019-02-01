@@ -1,11 +1,12 @@
 ## UCGD Programming for Biology Walkthrough
 
-This is a walkthrough of the [PFB2018](https://github.com/prog4biol/pfb2018) course taught at CSHL. This page will be updated weekly.
+This is a walkthrough of the [PFB2018](https://github.com/prog4biol/pfb2018) course taught at CSHL.
 
-I plan on starting at Python lecture one, which would skip the [Unix](https://github.com/prog4biol/pfb2018/blob/master/unix.md/#unix) and Git sections.  However if you would like to review it, I would be willing to answer any questions via email, slack or in-person.
+I plan on starting at Python lecture one, which would skip the [Unix](https://github.com/prog4biol/pfb2018/blob/master/unix.md/#unix) and [Git](https://github.com/prog4biol/pfb2018/blob/master/unix.md/#git-for-beginners) sections.  However if you would like to review it, I would be willing to answer any questions via email, slack or in-person.
 
 It would be beneficial if you have python3 installed on your system _before_ we meet the first day, so we have a smooth start. Also I can help with this as needed.
 
+__Mac Python3 install instructions:__
 [Mac OS](https://wsvincent.com/install-python3-mac/)
 
 ### Time and Location:
@@ -13,9 +14,13 @@ It would be beneficial if you have python3 installed on your system _before_ we 
 * Each Following Mondays 2:30-3:30
 * Room: [Location](https://github.com/UCGD/PFB2019-Walkthrough/blob/master/MeetingLocation.pdf)
 
+### Format:
+
+This class will be a 'free form' round table approach, where we can learn and discuss together, as opposed to a standing instructor method.  Each week we will cover one Python section, and reserve the last ~10 minutes of class to review the prior weeks problem sets.  I’m assuming the majority of participants will have a intermediate understanding of Python, or prior programming experience, however this class is open for all levels of understanding.
+
 ### Participants: (14/20)
 
-* Shawn Rynearson 
+* Shawn Rynearson
 * Karen Eilbeck
 * Aurelie Kapusta
 * Bushra Gorsi
@@ -29,6 +34,7 @@ It would be beneficial if you have python3 installed on your system _before_ we 
 * Javier Hernandez
 * Preetida Bhetariya
 * Carson Holt
+* Sergiusz Wesolowski 
 
 ### Slack Channel:
 utahgenomics -> pfbwalkthrough2019
