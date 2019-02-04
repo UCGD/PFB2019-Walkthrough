@@ -45,6 +45,7 @@ If you don't have slack, but would like to be apart of this group.
 
 ### Additional information:
 * The PFB2018 CSHL course [webpage.](http://programmingforbiology.org/)
+* [ROSALIND](http://rosalind.info/problems/tree-view/)
 
 ### Python Lectures
 ___
