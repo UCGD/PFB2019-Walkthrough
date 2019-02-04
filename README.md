@@ -1,6 +1,6 @@
 ## UCGD Programming for Biology Walkthrough
 
-This is a walkthrough of the [PFB2018](https://github.com/prog4biol/pfb2018) course taught at CSHL.
+This is a walkthrough of the [PFB2018](https://github.com/prog4biol/pfb2018) [course taught at CSHL.](http://programmingforbiology.org/)
 
 I plan on starting at Python lecture one, which would skip the [Unix](https://github.com/prog4biol/pfb2018/blob/master/unix.md/#unix) and [Git](https://github.com/prog4biol/pfb2018/blob/master/unix.md/#git-for-beginners) sections.  However if you would like to review it, I would be willing to answer any questions via email, slack or in-person.
 
