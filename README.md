@@ -43,7 +43,7 @@ If you don't have slack, but would like to be apart of this group.
 1. sign up for [slack](https://slack.com/)
 2. email me your username.
 
-### Additional information:
+### Useful Aids:
 * The PFB2018 CSHL course [webpage.](http://programmingforbiology.org/)
 * [ROSALIND](http://rosalind.info/problems/tree-view/)
 
