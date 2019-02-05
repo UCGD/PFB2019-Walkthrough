@@ -46,6 +46,8 @@ If you don't have slack, but would like to be apart of this group.
 ### Useful Aids:
 * The PFB2018 CSHL course [webpage.](http://programmingforbiology.org/)
 * [ROSALIND](http://rosalind.info/problems/tree-view/)
+* Vim editor [Cheatsheet](https://vim.rtorr.com/)
+* emacs editor [Cheat Sheet](https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf)
 
 ### Python Lectures
 ___
