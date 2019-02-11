@@ -34,7 +34,8 @@ This class will be a 'free form' round table approach, where we can learn and di
 * Javier Hernandez
 * Preetida Bhetariya
 * Carson Holt
-* Sergiusz Wesolowski 
+* Sergiusz Wesolowski
+* Grange Simpson
 
 ### Slack Channel:
 utahgenomics -> pfbwalkthrough2019
