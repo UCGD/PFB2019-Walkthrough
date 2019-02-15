@@ -69,6 +69,7 @@ ___
 ___
 
 #### Python 3:
+[Lecture](https://github.com/prog4biol/pfb2018/blob/master/pfb.md/#python-3)
 
 ___
 
