@@ -74,6 +74,8 @@ ___
 [Lecture](https://github.com/prog4biol/pfb2018/blob/master/pfb.md/#python-3)
 
 [Problem set](https://github.com/prog4biol/pfb2018/blob/master/problemsets/Python_03_problemset.md)
+
+[Problem set solutions](https://github.com/UCGD/PFB2019-Walkthrough/tree/master/ProblemSet3)
 ___
 
 #### Python 4:
