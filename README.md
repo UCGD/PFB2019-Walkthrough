@@ -90,7 +90,7 @@ ___
 #### Python 5:
 [Lecture](https://github.com/prog4biol/pfb2018/blob/master/pfb.md/#python-5)
 
-[Problem set](https://github.com/prog4biol/pfb2018/blob/master/problemsets/Python_04_problemset.md)
+[Problem set](https://github.com/prog4biol/pfb2018/blob/master/problemsets/Python_05_problemset.md)
 
 ___
 
