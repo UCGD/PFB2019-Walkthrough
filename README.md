@@ -97,6 +97,11 @@ ___
 ___
 
 #### Python 6:
+[Lecture](https://github.com/prog4biol/pfb2018/blob/master/pfb.md/#python-6)
+
+[Problem set](https://github.com/prog4biol/pfb2018/blob/master/problemsets/Python_06_problemset.md)
+
+[Problem set solutions](https://github.com/UCGD/PFB2019-Walkthrough/tree/master/ProblemSet6)
 
 ___
 
