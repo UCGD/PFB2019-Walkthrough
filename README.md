@@ -92,6 +92,8 @@ ___
 
 [Problem set](https://github.com/prog4biol/pfb2018/blob/master/problemsets/Python_05_problemset.md)
 
+[Problem set solutions](https://github.com/UCGD/PFB2019-Walkthrough/tree/master/ProblemSet5)
+
 ___
 
 #### Python 6:
