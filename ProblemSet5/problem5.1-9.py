@@ -10,11 +10,12 @@ fav = {
 
 for k in fav.keys():
     print(k)
+
 viewItem = input("Enter which favorite item you want to see: ")
 print(fav.get(viewItem))
 
 addItem = input("Add another favorite item: (y/n)")
-if addItem:
+if addItem == 'y':
     itemKey = input("Favorate name: ")
     valueKey = input("Favorate thing: ")
     fav[itemKey] = valueKey

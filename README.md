@@ -107,6 +107,17 @@ ___
 
 #### Python 7:
 
+[Lecture](https://github.com/prog4biol/pfb2018/blob/master/pfb.md/#python-7)
+
+[Problem set](https://github.com/prog4biol/pfb2018/blob/master/problemsets/Python_07_problemset.md)
+
+[Problem set solutions](https://github.com/UCGD/PFB2019-Walkthrough/tree/master/ProblemSet7)
+
+[Regular expressions tutorial](https://regexone.com/)
+
+[Regular expressions generator](https://regexr.com/)
+
+
 ___
 
 #### Python 8:
