@@ -122,6 +122,11 @@ ___
 
 #### Python 8:
 
+[Lecture](https://github.com/prog4biol/pfb2018/blob/master/pfb.md/#python-8)
+
+[Problem set](https://github.com/prog4biol/pfb2018/blob/master/problemsets/Python_08_problemset.md)
+
+
 ___
 
 #### Python 9:
