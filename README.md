@@ -126,6 +126,7 @@ ___
 
 [Problem set](https://github.com/prog4biol/pfb2018/blob/master/problemsets/Python_08_problemset.md)
 
+[Problem set solutions](https://github.com/UCGD/PFB2019-Walkthrough/tree/master/ProblemSet8)
 
 ___
 
@@ -134,6 +135,7 @@ ___
 [Lecture](https://github.com/prog4biol/pfb2018/blob/master/pfb.md/#python-9)
 
 [Problem set](https://github.com/prog4biol/pfb2018/blob/master/problemsets/Python_09_problemset.md)
+
 
 ___
 
