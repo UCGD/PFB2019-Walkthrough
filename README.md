@@ -131,6 +131,10 @@ ___
 
 #### Python 9:
 
+[Lecture](https://github.com/prog4biol/pfb2018/blob/master/pfb.md/#python-9)
+
+[Problem set](https://github.com/prog4biol/pfb2018/blob/master/problemsets/Python_09_problemset.md)
+
 ___
 
 #### Python 10:
