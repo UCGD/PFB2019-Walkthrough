@@ -42,7 +42,7 @@ for i in codon_file:
         split_seq = split_record[1].split()
         translated = [translation_table[x] for x in split_seq]
         protein_seq = ''.join(translated)
-        print(len(protein_seq))
+        print(codon, len(protein_seq))
         aa_file.write(protein_seq + '\n')
     except:
         continue

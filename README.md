@@ -141,3 +141,7 @@ ___
 
 #### Python 10:
 
+[Lecture](https://github.com/prog4biol/pfb2018/blob/master/pfb.md/#python-10)
+
+[Problem set](https://github.com/prog4biol/pfb2018/blob/master/problemsets/Python_10_problemset.md)
+

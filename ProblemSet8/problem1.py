@@ -16,7 +16,7 @@ for i in fasta_file:
             sequence_set = set(dna_seq)
             for s in sequence_set:
                 count_of = dna_seq.count(s)
-                fasta_record[gene][s] = count_of
+                fasta_record[gene][s] += count_of
         dna_seq = ''
         header_info = re.split(' ', record)
         gene = re.sub(r'>', '', header_info[0])
